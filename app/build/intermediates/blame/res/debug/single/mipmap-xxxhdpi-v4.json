@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\JavaCode\\examples\\FamilyMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_add_circle_outline_black_36dp.png",
+        "source": "F:\\JavaCode\\examples\\FamilyMenu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_add_circle_outline_black_36dp.png"
+    },
+    {
+        "merged": "F:\\JavaCode\\examples\\FamilyMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\JavaCode\\examples\\FamilyMenu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\JavaCode\\examples\\FamilyMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_add_circle_outline_black_24dp.png",
+        "source": "F:\\JavaCode\\examples\\FamilyMenu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_add_circle_outline_black_24dp.png"
+    }
+]
